@@ -2498,8 +2498,8 @@ SetDefaultKey()
 	Hotkey,+m,<Half>,On,UseErrorLevel
 	Hotkey,n,<azhistory>,On,UseErrorLevel
 	Hotkey,+n,<DirectoryHistory>,On,UseErrorLevel
-	HotKey,o,<SrcOpenDrives>,on,UseErrorLevel
-	HotKey,+o,<OpenDrives>,on,UseErrorLevel
+	HotKey,o,<LeftOpenDrives>,on,UseErrorLevel
+	HotKey,+o,<RightOpenDrives>,on,UseErrorLevel
 	HotKey,p,<PackFiles>,on,UseErrorLevel
 	HotKey,+p,<UnpackFiles>,on,UseErrorLevel
 	HotKey,q,<SrcQuickview>,on,UseErrorLevel
