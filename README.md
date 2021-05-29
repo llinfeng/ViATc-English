@@ -1,9 +1,8 @@
 ViATc
 =====
-ViATc - Vim mode at Total Commander  
-2021/05/05  version 0.5.5-OLD  
+ViATc - Vim mode at Total Commander    
 
-Note: This version is adopted from the 0.5.5en per [this
+Note: This version is adopted from Version 0.5.5en per [this
 commit](https://github.com/magicstep/ViATc-English/commit/60610277fd5463f970c574d52ee9afcd52e7fbc1).  The adjustments were made such that old ViATc mappings are "restored".
 
 ![viatc_logo credit: https://github.com/linxinhong](https://magicstep.github.io/viatc/viatc_logo.jpg?raw=true "viatc_logo")  
