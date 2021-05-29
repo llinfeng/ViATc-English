@@ -2515,7 +2515,8 @@ SetDefaultKey()
 	Hotkey,w,<SrcCustomViewMenu>,On,UseErrorLevel
 	Hotkey,+w,<Enter>,On,UseErrorLevel
 	Hotkey,x,<CloseCurrentTab>,On,UseErrorLevel
-	Hotkey,y,<Copy>,On,UseErrorLevel
+	; Hotkey,y,<Copy>,On,UseErrorLevel
+	Hotkey,y,<CopyNamesToClip>,On,UseErrorLevel
 	;Hotkey,+y,<MoveOnly>,On,UseErrorLevel
     ;Hotkey,y,<CopyNamesToClip>,On,UseErrorLevel
     Hotkey,+y,<CopyFullNamesToClip>,On,UseErrorLevel
