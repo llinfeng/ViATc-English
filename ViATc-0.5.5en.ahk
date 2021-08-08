@@ -1635,6 +1635,13 @@ ControlGetTabs(Control, WinTitle="", WinText="")
 }
 
 ; ----- fancy rename {{{1
+<PlainRename>:
+; The <FancyR> tag in the ini file is defined severe lines below. Send a simple
+; Ctrl+M to bring up the default TC rename-tool
+send ^m
+return
+
+
 <FancyR>:
 If SendPos(0)
 	FancyRCreateGui()
